@@ -1,0 +1,292 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/xiang/Desktop/MPPCcontrol
+T_opt
+!s110 1651639801
+VB6Wo@<hURChe3>;5LC1kj2
+04 12 10 work mppcmcontrol behavioral 1
+=1-145afc1b5a7f-627205f9-201-19c18
+o-quiet -auto_acc_if_foreign -work work +acc
+tCvgOpt 0
+n@_opt
+OL;O;10.6d;65
+R0
+Eclockmanagement
+Z1 w1648260770
+Z2 DPx4 work 11 mypackpcmmp 0 22 ;zE:he5gW>S56<E0gZjWa0
+Z3 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z4 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z5 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z6 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z7 8C:/Users/xiang/Desktop/MPPCcontrol/ClockManagement.vhd
+Z8 FC:/Users/xiang/Desktop/MPPCcontrol/ClockManagement.vhd
+l0
+L25
+VM:LDcULi[g]D0Aa`lSWa62
+!s100 b6Z[:S]gc71J07fE8kXXa3
+Z9 OL;C;10.6d;65
+32
+Z10 !s110 1651681715
+!i10b 1
+Z11 !s108 1651681715.000000
+Z12 !s90 -work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/xiang/Desktop/MPPCcontrol/ClockManagement.vhd|
+Z13 !s107 C:/Users/xiang/Desktop/MPPCcontrol/ClockManagement.vhd|
+!i113 0
+Z14 o-work work -2002 -explicit
+Z15 tExplicit 1 CvgOpt 0
+Abehavioral
+R2
+R3
+R4
+R5
+R6
+DEx4 work 15 clockmanagement 0 22 M:LDcULi[g]D0Aa`lSWa62
+l33
+L32
+V_Ui6Wlz`bo6ES^NI@dO462
+!s100 5in_Q9]1j5MFZ073FdJ_Z3
+R9
+32
+R10
+!i10b 1
+R11
+R12
+R13
+!i113 0
+R14
+R15
+Econtrolunit
+Z16 w1651630967
+R2
+Z17 DPx8 synopsys 10 attributes 0 22 liCm]LV3<lX4Zl>o6^8IV1
+Z18 DPx4 ieee 14 std_logic_misc 0 22 BLzBaQbXS>Q1z>5YO]m[52
+R3
+R4
+R5
+R6
+R0
+Z19 8C:/Users/xiang/Desktop/MPPCcontrol/ControlUnit.vhd
+Z20 FC:/Users/xiang/Desktop/MPPCcontrol/ControlUnit.vhd
+l0
+L11
+Vj4j_D0m?l;cJkZ<KzX5k42
+!s100 J==RkiNAEClLIm9On01P20
+R9
+32
+R10
+!i10b 1
+R11
+Z21 !s90 -work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/xiang/Desktop/MPPCcontrol/ControlUnit.vhd|
+Z22 !s107 C:/Users/xiang/Desktop/MPPCcontrol/ControlUnit.vhd|
+!i113 0
+R14
+R15
+Abehavioral
+R2
+R17
+R18
+R3
+R4
+R5
+R6
+DEx4 work 11 controlunit 0 22 j4j_D0m?l;cJkZ<KzX5k42
+l68
+L62
+V1ODQc1e<bXP=>9HTV;=F:0
+!s100 l=UX_hzFBPXb8=XP4n1gN0
+R9
+32
+R10
+!i10b 1
+R11
+R21
+R22
+!i113 0
+R14
+R15
+Edpwm
+Z23 w1651630762
+R2
+R3
+R4
+R5
+R6
+R0
+Z24 8C:/Users/xiang/Desktop/MPPCcontrol/DPWM.vhd
+Z25 FC:/Users/xiang/Desktop/MPPCcontrol/DPWM.vhd
+l0
+L62
+Vm08Y`hQ>SJ3N6k2?bO;4^0
+!s100 6EmY`SE;cCbCN=VUZYjd>1
+R9
+32
+R10
+!i10b 1
+R11
+Z26 !s90 -work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/xiang/Desktop/MPPCcontrol/DPWM.vhd|
+Z27 !s107 C:/Users/xiang/Desktop/MPPCcontrol/DPWM.vhd|
+!i113 0
+R14
+R15
+Abehavioral
+R2
+R3
+R4
+R5
+R6
+DEx4 work 4 dpwm 0 22 m08Y`hQ>SJ3N6k2?bO;4^0
+l84
+L82
+V[CF];]0i4^`<jnCO]QSCR3
+!s100 FP32WBC5ZKJ06:`P1ocd;1
+R9
+32
+R10
+!i10b 1
+R11
+R26
+R27
+!i113 0
+R14
+R15
+Emppcmcontrol
+Z28 w1651629819
+R2
+R3
+R4
+R5
+R6
+R0
+Z29 8C:/Users/xiang/Desktop/MPPCcontrol/MPPCMControl.vhd
+Z30 FC:/Users/xiang/Desktop/MPPCcontrol/MPPCMControl.vhd
+l0
+L30
+VD11>zz18n81DIkXIHaUNC2
+!s100 g^2<0oD]QYe9TS]BoBYfC0
+R9
+32
+Z31 !s110 1651681716
+!i10b 1
+Z32 !s108 1651681716.000000
+Z33 !s90 -work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/xiang/Desktop/MPPCcontrol/MPPCMControl.vhd|
+Z34 !s107 C:/Users/xiang/Desktop/MPPCcontrol/MPPCMControl.vhd|
+!i113 0
+R14
+R15
+Abehavioral
+R2
+R3
+R4
+R5
+R6
+DEx4 work 12 mppcmcontrol 0 22 D11>zz18n81DIkXIHaUNC2
+l159
+L60
+VBXl[g?BM4A4B5GHOiC@OW2
+!s100 @A3knEVh0?KD>Q=_m=F1o2
+R9
+32
+R31
+!i10b 1
+R32
+R33
+R34
+!i113 0
+R14
+R15
+Pmypackpcmmp
+R3
+R4
+R5
+R6
+Z35 w1651629797
+R0
+Z36 8C:/Users/xiang/Desktop/MPPCcontrol/mypackPCMMP.vhd
+Z37 FC:/Users/xiang/Desktop/MPPCcontrol/mypackPCMMP.vhd
+l0
+L24
+V;zE:he5gW>S56<E0gZjWa0
+!s100 4?c:FY0mHomLeWB_fUi[@1
+R9
+32
+R31
+!i10b 1
+R32
+Z38 !s90 -work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/xiang/Desktop/MPPCcontrol/mypackPCMMP.vhd|
+Z39 !s107 C:/Users/xiang/Desktop/MPPCcontrol/mypackPCMMP.vhd|
+!i113 0
+R14
+R15
+Bbody
+R2
+R3
+R4
+R5
+R6
+l0
+L52
+V2bh4j20Kc>8z;lcVhoW>U0
+!s100 JEI[_IcDHja?TW@z>5a0^3
+R9
+32
+R31
+!i10b 1
+R32
+R38
+R39
+!i113 0
+R14
+R15
+Etransientdetection
+Z40 w1648262220
+R2
+R3
+R4
+R5
+R6
+R0
+Z41 8C:/Users/xiang/Desktop/MPPCcontrol/TransientDetection.vhd
+Z42 FC:/Users/xiang/Desktop/MPPCcontrol/TransientDetection.vhd
+l0
+L26
+VzHbRdVcGi3P690Wd49TcP2
+!s100 0naUERzXG7BiIGoWcleaY0
+R9
+32
+R31
+!i10b 1
+R32
+Z43 !s90 -work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/xiang/Desktop/MPPCcontrol/TransientDetection.vhd|
+Z44 !s107 C:/Users/xiang/Desktop/MPPCcontrol/TransientDetection.vhd|
+!i113 0
+R14
+R15
+Abehavioral
+R2
+R3
+R4
+R5
+R6
+Z45 DEx4 work 18 transientdetection 0 22 zHbRdVcGi3P690Wd49TcP2
+l40
+L39
+Z46 VGBg`5:IS^DRUIMA6E<N:U3
+Z47 !s100 Om21@b]I:>?nEhmZ6kCL@1
+R9
+32
+R31
+!i10b 1
+R32
+R43
+R44
+!i113 0
+R14
+R15
